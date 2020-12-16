@@ -1,10 +1,13 @@
 To stage all the files in a dir
 git add -A
 
+edit the file in git hub
+commit it(in git hub)
 
+edit the file in local repo
+stage and commit it
 
+try to push-> you will get an error
 
-
-Change done in local repo
-
-Creating Conflic
+Try to pull
+u will get the conflict
