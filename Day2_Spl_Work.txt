@@ -1,2 +1,4 @@
 To stage all the files in a dir
 git add -A
+
+Creating Conflict
