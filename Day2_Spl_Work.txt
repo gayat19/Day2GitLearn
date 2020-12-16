@@ -11,3 +11,9 @@ try to push-> you will get an error
 
 Try to pull
 u will get the conflict
+
+edit the file to resolve conflict
+
+add and commit it
+
+pull then push
