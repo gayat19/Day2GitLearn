@@ -1,2 +1,7 @@
 To stage all the files in a dir
 git add -A
+
+
+
+
+Change done in local repo
