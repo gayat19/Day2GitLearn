@@ -1,6 +1,11 @@
-partial class Program
+using System;
+namespace SampleApplicationProject
 {
-    void PrintWelcome(){
-         Console.WriteLine("Welcome by programmer 2"");
+    partial class Program
+    {
+        void PrintWelcome()
+        {
+            Console.WriteLine("Welcome by programmer 2");
+        }
     }
 }

@@ -10,6 +10,7 @@ namespace SampleApplicationProject
     {
         void PrintHello()
         {
+            new Program().
             Console.WriteLine("Hello");
         }
     }
