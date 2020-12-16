@@ -11,6 +11,7 @@ namespace SampleApplicationProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!!");
+            Console.WriteLine("Another line");
             Console.ReadKey();
         }
     }
