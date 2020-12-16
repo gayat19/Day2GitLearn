@@ -34,5 +34,30 @@ pull and push
 all methods will  be available
 
 
+init, remote add and pull
+git clone <repo link>
+git clone https://github.com/gayat19/Day2GitLearn.git
+[12:09 PM] Appali Lasya
+    
+branches
 
-Added a new line   again
+Application
+  Maint
+  Feature
+
+
+To create a new Branch
+git branch <branchname>
+git branch bugfix
+
+To list all the branches
+git branch
+
+
+To go to another branch
+>git checkout <branchname>
+git checkout bugfix
+
+
+To list all the files in the current branch
+>git ls-files
