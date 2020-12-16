@@ -17,3 +17,9 @@ edit the file to resolve conflict
 add and commit it
 
 pull then push
+
+To remove the remote ref
+git remote remove origin
+
+
+Trying to pull new changes
